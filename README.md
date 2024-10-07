@@ -1,1 +1,1 @@
-i have devloped a counter using a basic css html and js
+this repo is about the basic projects using html css and js
